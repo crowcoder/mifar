@@ -1,0 +1,14 @@
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\bin\Debug\netcoreapp2.1\Mifar.deps.json
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\bin\Debug\netcoreapp2.1\Mifar.runtimeconfig.json
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\bin\Debug\netcoreapp2.1\Mifar.runtimeconfig.dev.json
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\bin\Debug\netcoreapp2.1\Mifar.dll
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\bin\Debug\netcoreapp2.1\Mifar.pdb
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\obj\Debug\netcoreapp2.1\Mifar.csprojAssemblyReference.cache
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\obj\Debug\netcoreapp2.1\Mifar.csproj.CoreCompileInputs.cache
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\obj\Debug\netcoreapp2.1\Mifar.RazorAssemblyInfo.cache
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\obj\Debug\netcoreapp2.1\Mifar.RazorAssemblyInfo.cs
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\obj\Debug\netcoreapp2.1\Mifar.AssemblyInfoInputs.cache
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\obj\Debug\netcoreapp2.1\Mifar.AssemblyInfo.cs
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\obj\Debug\netcoreapp2.1\Mifar.RazorTargetAssemblyInfo.cache
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\obj\Debug\netcoreapp2.1\Mifar.dll
+C:\Users\tekhe\Documents\Visual Studio 2017\Projects\Mifar\Mifar\obj\Debug\netcoreapp2.1\Mifar.pdb
